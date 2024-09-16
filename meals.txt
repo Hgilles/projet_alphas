@@ -1,0 +1,58 @@
+aliments,calories (100g), protéines,lipides,glucides,categorie,accompagnement,meals
+patate douce cuite,62.0,1.69,0.15,12.2,tubercule,No,cooked sweet potato
+patate douce frites,165.0,1.6,7.2,22.0,tubercule,No,sweet potato fries
+pomme de terre cuites ,73.0,2.0,0.1,15.0,tubercule,No,cooked potatoes
+manioc,159.0,1.4,0.3,38.0,tubercule,No,manioc
+gari,369.0,1.3,0.3,84.0,bouillie,No,gari
+tapioca,369.0,0.1,0.1,94.3,bouillie,No,tapioca
+bouillie de tapioca,369.0,0.1,0.1,94.3,bouillie,No,tapioca porridge
+spaghetti/pates alimentaires cuites,350.0,10.35,2.94,66.8,autres,No,cooked spaghetti/pasta
+voandzou,365.0,17.7,59.37,6.3,légumineuse,No,voandzou
+attieke ,350.0,0.0,2.48,93.08,autres,No,attieke
+couscous blanc,169.0,3.8,0.8,35.7,féculent,No,couscous blanc
+riz blanc,151.0,2.9,1.4,31.1,féculent,No,White rice
+riz rouge,141.0,3.5,0.7,28.2,féculent,No,red rice
+banane plantains cuits,176.0,1.2,0.3,48.0,fruit,No,cooked plantains
+haricots rouge,333.0,24.0,0.8,60.0,légumineuse,No,red beans
+haricots blancs,90.0,3.0,19.0,0.4,légumineuse,No,White beans
+banane plantains frit en moyenne(alloco),124.0,0.6,3.5,20.5,autres,No,medium fried plantains (alloco)
+igname cuit,155.0,5.0,0.2,42.1,tubercule,No,cooked yam
+frites de pommes de terre ,312.0,3.4,15.0,41.0,tubercule,No,potato fries
+igname pilée,155.0,5.0,0.2,42.1,pâte,No,pounded yam
+poisson,150.0,30.0,3.33,0.0,poissons,Yes,fishes
+gésier,115.0,18.15,4.19,0.4,gésier,Yes,gizzard
+viande de poulet,239.0,27.0,14.0,0.0,viande,Yes,chicken meat
+blanc de poulet(sans la peau),121.0,26.2,1.8,0.1,viande,Yes,white chicken breast
+rognons de bœuf,89.0,15.3,2.7,0.9,viande,Yes,beef kidneys
+boeuf,132.0,21.6,5.0,0.2,viande,Yes,boeuf
+aileron,192.0,20.2,12.3,0.0,viande,Yes,aileron
+viande de chèvre,122.0,22.0,2.6,2.65,viande,Yes,goat meat
+viande de veau,172.0,24.0,8.0,0.0,viande,Yes,veal
+viande de porc,163.0,30.5,4.31,0.63,viande,Yes,pork meat
+foie de bœuf,165.0,26.0,4.4,3.8,viande,Yes,Liver of beef
+saucisse de poule,200.0,11.5,12.0,6.0,saucisse,Yes,chicken sausage
+oeuf(en moyenne),155.0,13.0,0.0,10.0,oeuf,Yes,egg (on average)
+kenkey/kom/dokonou,139.0,3.7,25.2,2.6,pâte,No,kenkey/kom/dokonou
+to(pate de mil),93.0,1.8,16.7,1.5,pâte,No,to (millet paste)
+bouillie de mil,69.0,0.9,8.9,0.8,bouillie,No,millet porridge
+foutou d'igname et de manioc,102.0,1.5,21.5,0.3,pâte,No,yam and cassava foutou
+pâte de farine de manioc(lafun),344.0,1.5,81.2,0.6,pâte,No,cassava flour paste (lafun)
+alloco,375.0,2.1,51.7,16.9,autres,No,address
+viande de pintade,106.0,21.5,0.0,2.2,viande,Yes,guinea fowl meat
+Viande de lapin,177.0,30.9,0.0,6.0,viande,Yes,Rabbit meat
+escargot,88.0,14.6,3.6,1.4,viande,Yes,escargot
+viande d_antilope,156.0,32.6,0.0,2.9,viande,Yes,antelope meat
+oeufs cailles,180.0,15.6,11.9,15.6,viande,Yes,quail eggs
+oeuf dinde,184.0,11.5,5.1,13.0,viande,Yes,turkey egg
+sauce tomate,74.0,1.8,11.6,3.8,sauce tomate,maybe,sauce tomate
+avocat,160.0,2.0,8.53,14.66,fruit,No,avocado
+télibo(pâte noire),83.0,1.1,22.5,0.1,pâte,No,telibo (black paste)
+sauce légumes,192.0,8.4,8.4,4.2,sauce légume,maybe,vegetable sauce
+ablo,170.0,2.0,40.0,0.8,autres,No,ablo togolese meal
+akassa,101.0,0.0,2.0,9.0,pâte,No,akassa
+arachides bouillies,316.0,15.5,9.54,22.0,arachide,noix,boiled peanuts
+arachides grilleés,613.0,27.3,9.7,47.4,arachide,noix,roasted peanuts
+sucre blanc,398.0,0.0,99.6,0.0,sucre,sucre,White sugar
+lait concentré sucré,330.9,7.7,55.9,8.5,lait,lait,sweetened condensed milk
+lait peak (en poudre),480.0,24.0,36.0,28.0,lait,lait,peak milk (powder)
+lait en poudre,499.0,27.7,36.2,26.4,lait,lait,powdered milk

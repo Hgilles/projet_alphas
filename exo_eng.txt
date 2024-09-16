@@ -1,0 +1,149 @@
+exercices,cibles
+classic pumps,pdc
+spread push-ups,pdc
+diamond pumps,pdc
+inclined push-ups,pdc
+declined push-ups,pdc
+parallel bar dips,pdc
+pull-ups,pdc
+Knee lift,cardio
+Burpees,cardio
+Jumping Jacks,cardio
+Jumped lunges,cardio
+Jumping rope,cardio
+Bike,course
+elliptical bike,course
+Treadmill running,course
+Jump squats,cardio
+Plank,plank
+box jump,cardio
+wall ball squat,cardio
+Knees to butt,cardio
+Knee push-ups,cardio
+Dumbbell Lateral Raises (less than 5kg),cardio
+Military press,middle and anterior delts
+Developed Arnold,middle and anterior delts
+Face pull,posterior delts and Traps
+Pulley Lateral Raises,middle and anterior delts
+Dumbbell shoulder press,middle and anterior delts
+Landmine Standing Shoulder Press,middle and anterior delts
+Reverse pecs decs,posterior delts and Traps
+Dumbbell Lateral Raises,middle and anterior delts
+Pulley Lateral Raises,middle and anterior delts
+Smith machine neck press,middle and anterior delts
+Unilateral Pulley Lateral Raises,middle and anterior delts
+Incline Dumbbell Lateral Raises,middle and anterior delts
+bird sitting on a bench,posterior delts and Traps
+Chin pull-up at the bar,middle and anterior delts
+Vertical pull reverse grip,dorsal and Traps
+horizontal draw wide grip,dorsal and Traps
+Rowing barre,dorsal and Traps
+Bent over row disk socket *,dorsal and Traps
+Shrugs,Traps
+Over head shrugs*,Traps
+Pullover pullover,dorsal
+Rowing dumbbells on inclined bench *,dorsal
+Vertical chest pull,dorsal
+Rowing with dumbbells,dorsal and Traps
+Rowing machine overhand grip,dorsal and Traps
+Vertical pull tight grip,dorsal
+Incline Dumbbell Press,upper chest
+Incline Barbell Press,upper chest
+Lying splits with dumbbells,chest
+Spread apart at the pulley opposite,middle chest
+Pecs decs,middle chest
+Dips on parallel bars,middle chest
+Bar press decline,lower chest
+Hex press a la machine Smith,middle chest
+Spreads lying on the pulley facing,chest
+Close bench press with dumbbells,middle chest
+Svend press,middle chest
+Spread at the pulley high screw on knees,lower chest
+Kneeling landmine for pectorals,upper chest
+Unilateral pulley split,middle chest
+High pulley splits,lower chest
+Inclined thigh press,quads
+Squats, Squats
+Leg extension,quads
+Deadlift,Deadlift
+Front bar squat,quads
+Romanian deadlift with kettlebell,quads
+Jump squats,quads
+Landmine sumo squats,quads
+Hack squat,quads
+Reverse squat hack,quads
+Dumbbell forward lunges,quads
+Sumo squats with dumbbells,quads
+Forward lunges with bar,quads
+Smith machine split squat,quads
+Deadlift at the trap bar,quads
+Goblet squat with dumbbells,quads
+Bulgarian squats with dumbbells,quads
+Hip thrust a la machine,glutes
+Squats,glutes
+Roman deadlift,glutes
+Pull through pulley,glutes
+Bench climbs,glutes
+Low Pulley Hip Extension,glutes
+Reverse hyperextension,glutes
+Landmine Roman Deadlift,glutes
+Donkey kick,glutes
+Fire hydrant,glutes
+Rack pull,glutes
+Deadlift,glutes
+Kettlebell swing,glutes
+Unilateral hip thrust,glutes
+Squat and stuff,glutes
+Zercher deadlift,glutes
+Crunch,abs
+Ab roller,abs
+Crunch sur swiss ball,abs
+Rotation russes,abs
+Hollow hold,abs
+Seated Leg Raises,abs
+Lying leg raise,abs
+Plank on Swiss ball,abs
+Sit-up declined,abs
+Plank,planche
+Pulley crunch,abs
+Bust rotation with bar,abs
+Sit-up with ball against a wall,abs
+Machine crunch,abs
+Side bends with dumbbells,abs
+AB coaster,abs
+Crunch papillon,abs
+Crunch bicyclette,abs
+Windmill,abs
+Torso rotation with landmine,abs
+Standing torso rotation on the pulley,abs
+Alternate heel button,abs
+Scissors,abs
+lateral bends at the low pulley,abs
+Dead bug,abs
+Rolling with bar,abs
+Crunch with vertical legs,abs
+Stretched leg circles,abs
+Barbell curl,Biceps
+Concentrated curl,Biceps
+Curl desk barre EZ,Biceps
+Pulley desk curl,Biceps
+Seated Bicep Curl Machine,Biceps
+Dumbbell curl standing on inclined bench,Biceps
+Incline Dumbbell Curl with Rotation,Biceps
+Low pulley biceps curl,Biceps
+Curl zottman,Biceps
+Alternating Dumbbell Bicep Curl,Biceps
+Alternating biceps curl in supinated inclined bench,Biceps
+Barre front,Triceps
+Dips on parallel bars,Triceps
+Vertical one-arm extensions with dumbbells,Triceps
+Dips on a chair,Triceps
+Low Pulley Incline Tricep Extensions,Triceps
+Horizontal pulley extension,Triceps
+Vertical extension to the low pulley,Triceps
+Vertical extension to the high pulley,Triceps
+Alternate kickback,Triceps
+Incline Triceps Extension with Dumbbells,Triceps
+Seated Triceps Extension with Dumbbells,Triceps
+High rope pulley triceps extension,Triceps
+One-arm tate press with dumbbells,Triceps

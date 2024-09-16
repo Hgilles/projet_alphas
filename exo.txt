@@ -1,0 +1,169 @@
+exercices,cibles
+
+pompes classiques,pdc
+pompes écartés,pdc
+pompes diamants,pdc
+pompes inclinés,pdc
+pompes déclinés,pdc
+dips_barre parallèles,pdc
+tractions,pdc
+
+
+Soulevé de genoux,cardio
+Burpees,cardio
+Jumping Jacks,cardio
+Fentes sautées,cardio
+Corde à sauter,cardio
+Vélo,course
+vélo élliptique,course
+Course sur tapis,course
+Squats sautés,cardio
+Planche,cardio
+box jump,cardio
+wall ball squat,cardio
+Genoux aux fesses,cardio
+Pompes sur genoux,cardio
+Elevations latérales aux haltères (moins de 5kg),cardio
+
+
+Développé militaire,delts antérieur et moyen
+Développé Arnold,delts antérieur et moyen
+Face pull,delts postérieur et Trapèzes
+Elevations latérales à la poulie,delts antérieur et moyen
+Développé épaules aux haltères,delts antérieur et moyen
+Développé épaules debout à la landmine,delts antérieur et moyen
+Pecs decs inversés,delts postérieur et Trapèzes
+Elevations latérales aux haltères,delts antérieur et moyen
+Elevations latérales à la poulie,delts antérieur et moyen
+Développé nuque a la machine Smith,delts antérieur et moyen
+Elevations latérales unilatérale à la poulie,delts antérieur et moyen
+Elevations latérales inclinés avec haltères,delts antérieur et moyen
+oiseau assis sur un banc,delts postérieur et Trapèzes
+Tirage menton à la barre,delts antérieur et moyen
+
+
+Tirage vertical prise inversée,dorsaux et rhomboides et trapèzes
+tirage horizontale prise large,dorsaux et rhomboides et trapèzes
+Rowing barre,dorsaux et rhomboides et trapèzes
+Bent over row prise disque *,dorsaux et rhomboides et trapèzes
+Shrugs,Trapèzes et rhomboides
+Over head shrugs*,Trapèzes et rhomboides
+Pull over à la poulie,dorsaux
+Rowing haltères sur banc incliné *,dorsaux
+Tirage vertical poitrine,dorsaux
+Rowing avec haltères,dorsaux et rhomboides et trapèzes
+Rowing prise pronation à la machine,dorsaux et rhomboides et trapèzes
+Tirage vertical prise serrée,dorsaux
+
+Développé incliné aux haltères,grand pectoral partie supérieure 
+Développé incliné à la barre,grand pectoral partie supérieure
+Écartés couché avec haltères,grand pectoral
+Écartés à la poulie vis-à-vis,fente des pectoraux
+Pecs decs,fente des pectoraux
+Dips aux barres parallèles,fente des pectoraux
+Développé décliné à la barre,grand pectoral partie inférieure
+Hex press a la machine Smith,fente des pectoraux
+Écartés couché à la poulie vis-à-vis,grand pectoral
+Développé couché serré avec haltères,fente des pectoraux
+Svend press,fente des pectoraux
+Écarté à la poulie vis à vis haute à genoux,grand pectoral partie inférieure
+Développé à la landmine à genou pour pectoraux,grand pectoral partie supérieure
+Écarté unilatéral à la poulie,fente des pectoraux
+Écartes à la poulie haute,grand pectoral partie inférieure
+
+
+Presse cuisses inclinés ,quadriceps
+Squats, Squats
+Leg extension,quadriceps
+Soulevé de terre, Soulevé de terre 
+Squat barre devant,quadriceps
+Soulevé de terre roumain avec kettlebell,quadriceps mollets ischio-jambiers
+Squats sautés,quadriceps et ischio-jambiers
+Squats sumo à la landmine,quadriceps et ischio-jambiers
+Hack squat,quadriceps et ischio-jambiers
+Hack squat inversé,quadriceps et ischio-jambiers
+Fentes avant aux haltères,quadriceps
+Squats sumo avec haltères,quadriceps et ischio-jambiers
+Fentes avant avec barre,quadriceps et ischio-jambiers
+Split squat à la machine Smith,quadriceps
+Soulevé de terre à la trap bar,quadriceps et ischio-jambiers
+Goblet squat avec haltères,quadriceps
+Squats bulgare avec haltères,quadriceps et ischio-jambiers
+
+
+Hip thrust a la machine,fessiers
+Squats,fessiers
+Soulevé de terre romain,fessiers
+Pull through à la poulie,fessiers
+Montées sur banc,fessiers
+Extension de la Hanche a la poulie basse,fessiers
+Hyperextension renversée,fessiers
+Soulevé de terre romain à la landmine,fessiers
+Donkey kick,fessiers
+Fire hydrant,fessiers
+Rack pull,fessiers
+Soulevé de terre,fessiers
+Kettlebell swing,fessiers
+Hip thrust unilatéral,fessiers
+Squat cosaque,fessiers
+Zercher deadlift,fessiers
+
+Crunch,grand droit
+Roulette à abdominaux,grand droit
+Crunch sur swiss ball,grand droit
+Rotation russes,obliques
+Hollow hold,abdos
+Relevé de jambes assis,grand droit
+Relevé de jambes couché,grand droit
+Planche sur swiss ball,grand droit
+Sit-up décliné,grand droit
+Planche,planche
+Crunch à la poulie,grand droit
+Rotation du buste avec barre,obliques
+Sit-up avec ball contre un mur,grand droit
+Crunch à la machine,grand droit
+Flexions latérales avec haltères,obliques
+AB coaster,grand droit
+Crunch papillon,abdos
+Crunch bicyclette,abdos
+Windmill,abdos
+Rotation du buste avec landmine,abdos
+Rotation du buste debout à la poulie,obliques
+Touche talons alternés,obliques
+Ciseaux,grand droit
+flexions latérales a la poulie basse,obliques
+Dead bug,grand droit
+Roulage avec barre,grand droit
+Crunch avec jambes verticales,grand droit
+Cercles jambes tendues,abdos
+
+
+
+Curl à la barre,Biceps
+Curl concentré,Biceps
+Curl pupitre barre EZ,Biceps
+Curl pupitre à la poulie,Biceps
+Curl biceps assis à la machine,Biceps
+Curl haltère debout sur banc incliné,Biceps
+Curl haltères incliné avec rotation,Biceps
+Curl biceps à la poulie basse,Biceps
+Curl zottman,Biceps
+Curl biceps alternés aux haltères,Biceps
+Curl biceps alterné en supination banc incliné,Biceps
+
+
+
+
+Barre front,Triceps
+Dips aux barres parallèles,Triceps
+Extensions verticales d'un bras avec haltères,Triceps
+Dips sur une chaise,Triceps
+Extensions des triceps incliné à la poulie basse,Triceps
+Extension horizontale à la poulie,Triceps
+Extension verticale à la poulie basse,Triceps
+Extension verticale à la poulie haute,Triceps
+Kickback alterné,Triceps
+Extension des triceps inclinés avec haltères,Triceps
+Extension des triceps assis avec haltères,Triceps
+Extension des triceps à la poulie haute à la corde,Triceps
+Tate press à un bras avec haltères ,Triceps

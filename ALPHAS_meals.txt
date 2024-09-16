@@ -1,0 +1,35 @@
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 1 is 306.29 grammes of couscous blanc and 300.07 grammes of gizzard,
+ The lunch is  372.39465755395685 grammes of kenkey/kom/dokonou et sauce tomate and 144.38732887029292 grammes of chicken meat, 
+ The last is 294.1071443181818 grammes of cooked plantains and 222.63594580645164 grammes of egg (on average) 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 2 is 306.29 grammes of couscous blanc and 211.71 grammes of pork meat,
+ The lunch is  342.8003801324503 grammes of White rice and 230.05714400000002 grammes of fishes, 
+ The last is 304.48739647058824 grammes of ablo togolese meal and 325.552562264151 grammes of viande de pintade 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 3 is 141.82 grammes of voandzou and 144.39 grammes of chicken meat,
+ The lunch is  372.39465755395685 grammes of kenkey/kom/dokonou et sauce tomate and 144.38732887029292 grammes of chicken meat, 
+ The last is 147.89387828571427 grammes of cooked spaghetti/pasta and 221.20879230769233 grammes of viande d_antilope 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 4 is 325.55 grammes of manioc and 172.54 grammes of chicken sausage,
+ The lunch is  367.1124638297872 grammes of red rice and 172.54285800000002 grammes of chicken sausage, 
+ The last is 155.4440162162162 grammes of red beans and 191.7142866666667 grammes of oeufs cailles 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 5 is 417.44 grammes of medium fried plantains (alloco) and 200.63 grammes of veal,
+ The lunch is  709.0802383561643 grammes of cooked potatoes and 300.07453565217395 grammes of gizzard, 
+ The last is 165.9065942307692 grammes of potato fries and 325.552562264151 grammes of viande de pintade 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 6 is 834.88 grammes of cooked sweet potato and 194.96 grammes of Rabbit meat,
+ The lunch is  372.39465755395685 grammes of kenkey/kom/dokonou et sauce tomate and 187.54658478260873 grammes of turkey egg, 
+ The last is 69.0 grammes de millet porridge, 32.5141959798995 grammes of  White sugar,  and 39.107434270172256 grammes de sweetened condensed milk et de 40.95142405063291 grammes of  boiled peanuts 
+Your daily calories expenditures are 3375.71 calories and the mean of a daily meal are 862.71 calories
+
+, The breakfast of the day 7 is 367.11 grammes of red rice and 191.71 grammes of quail eggs,
+ The lunch is  333.9539187096774 grammes of pounded yam et sauce tomate and 194.96368135593224 grammes of Rabbit meat, 
+ The last is 325.5525622641509 grammes of manioc and 200.63123023255818 grammes of viande de veau 

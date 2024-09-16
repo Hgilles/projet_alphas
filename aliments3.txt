@@ -1,0 +1,61 @@
+aliments;calories (100g); protéines;lipides;glucides;categorie;accompagnement
+patate douce cuite;62 ;1.69 ;0.15 ;12.2;tubercule;No
+patate douce frites;165;1.6;7.2;22;tubercule;No
+pomme de terre cuites ;73 ;2 ;0.1 ;15;tubercule;No
+manioc;159;1.4;0.3;38;tubercule;No
+gari;369;1.3;0.3;84;bouillie;No
+tapioca;369;0.1;0.1;94.3;bouillie;No
+bouillie de tapioca;369;0.1;0.1;94.3;bouillie;No
+spaghetti/pates alimentaires cuites;350;10.35;2.94;66.8;autres;No
+voandzou;365;17.7;59.37;6.3;légumineuse;No
+attieke ;350 ;0 ;2.48 ;93.08;autres;No
+couscous blanc; 169; 3.8; 0.8; 35.7;féculent;No
+riz blanc; 151; 2.9; 1.4; 31.1;féculent;No
+riz rouge;141;3.5;0.7;28.2;féculent;No
+banane plantains cuits;176;1.2;0.3;48;fruit;No
+haricots rouge;333;24;0.8;60;légumineuse;No
+haricots blancs;90;3;19;0.4;légumineuse;No
+banane plantains frit en moyenne(alloco);124;0.6;3.5;20.5;autres;No
+igname cuit; 155; 5; 0.2; 42.1;tubercule;No
+frites de pommes de terre ;312 ;3.4 ;15 ;41;tubercule;No
+igname pilée; 155; 5; 0.2; 42.1;pâte;No
+poisson;150;30;3.33;0;poissons;Yes
+gésier;115;18.15;4.19;0.4;gésier;Yes
+viande de poulet;239;27;14;0;viande;Yes
+blanc de poulet(sans la peau);121;26.2;1.8;0.1;viande;Yes
+rognons de bœuf;89;15.3;2.7;0.9;viande;Yes
+boeuf;132;21.6;5;0.2;viande;Yes
+aileron;192;20.2;12.3;0;viande;Yes
+viande de chèvre;122;22;2.6;2.65;viande;Yes
+viande de veau;172;24;8;0;viande;Yes
+viande de porc;163;30.5;4.31;0.63;viande;Yes
+foie de bœuf;165;26;4.4;3.8;viande;Yes
+saucisse de poule;200;11.5;12;6;saucisse;Yes
+oeuf(en moyenne);155;13;0;10;oeuf;Yes
+
+kenkey/kom/dokonou;139;3.7;25.2;2.6;pâte;No
+to(pate de mil);93;1.8;16.7;1.5;pâte;No
+bouillie de mil;69;0.9;8.9;0.8;bouillie;No
+foutou d'igname et de manioc;102;1.5;21.5;0.3;pâte;No
+pâte de farine de manioc(lafun);344;1.5;81.2;0.6;pâte;No
+alloco;375;2.1;51.7;16.9;autres;No
+viande de pintade;106;21.5;0;2.2;viande;Yes
+Viande de lapin;177;30.9;0;6;viande;Yes
+escargot;88;14.6;3.6;1.4;viande;Yes
+viande d_antilope;156;32.6;0;2.9;viande;Yes
+oeufs cailles;180;15.6;11.9;15.6;viande;Yes
+oeuf dinde;184;11.5;5.1;13;viande;Yes
+
+
+sauce tomate;74;1.8;11.6;3.8;sauce tomate;maybe
+avocat;160;2;8.53;14.66;fruit;No
+télibo(pâte noire);83;1.1;22.5;0.1;pâte;No
+sauce légumes;192;8.4;8.4;4.2;sauce légume;maybe
+ablo;170;2;40;0.8;autres;No
+akassa;101;0;2;9;pâte;No
+arachides bouillies;316;15.5;9.54;22;arachide;noix
+arachides grilleés;613;27.3;9.7;47.4;arachide;noix
+sucre blanc;398;0;99.6;0;sucre;sucre
+lait concentré sucré;330.9;7.7;55.9;8.5;lait;lait
+lait peak (en poudre);480;24;36;28;lait;lait
+lait en poudre;499;27.7;36.2;26.4;lait;lait
